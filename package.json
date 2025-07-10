@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-router-dom": "^7.6.3",
+    "react-top-loading-bar": "^3.0.2"
+  }
+}
