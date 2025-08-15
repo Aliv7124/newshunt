@@ -43,4 +43,3 @@ export default class Navabar extends Component {
     );
   }
 }
-

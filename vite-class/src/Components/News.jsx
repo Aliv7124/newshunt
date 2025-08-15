@@ -109,3 +109,6 @@ async componentDidUpdate(prevProps) {
 }
 
 export default News
+
+
+

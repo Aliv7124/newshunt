@@ -1,4 +1,3 @@
-
 import React, { Component } from 'react';
 import Navabar from './Components/Navabar'; 
 import News from './Components/News';
@@ -41,4 +40,3 @@ setProgress=(progress)=>{
     );
   }
 }
-
